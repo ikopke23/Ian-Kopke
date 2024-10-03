@@ -4,13 +4,13 @@
  - I am also pursuing a Minor in Chemistry
 
 ## Projects
- - InfoSys
-   - Frontend
+ - ### InfoSys
+   - #### Frontend
      -  
-   - Backend
+   - #### Backend
      - [ ] REST API get routes
      - [ ] REST API post routes
      - [ ] REST API admin delete routes
-   - database
+   - #### database
      - [x] setup the tables
      - [ ] test data 
