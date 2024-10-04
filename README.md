@@ -6,7 +6,10 @@
 ## Projects
  - ### InfoSys
    - #### Frontend
-     -  
+     - [ ] Homescreen
+       - [ ] Displaying messages
+     - [ ] Create message Form
+     - [ ] Admin page?
    - #### Backend
      - [ ] REST API get routes
      - [ ] REST API post routes
