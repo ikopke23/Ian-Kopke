@@ -5,15 +5,15 @@
 
 ## Projects
  - ### InfoSys
-   - #### Frontend
-     - [ ] Homescreen
-       - [ ] Displaying messages
-     - [ ] Create message Form
-     - [ ] Admin page?
-   - #### Backend
-     - [ ] REST API get routes
-     - [ ] REST API post routes
-     - [ ] REST API admin delete routes
-   - #### database
-     - [x] setup the tables
-     - [ ] test data 
+//   - #### Frontend
+//     - [ ] Homescreen
+//       - [ ] Displaying messages
+//     - [ ] Create message Form
+//     - [ ] Admin page?
+//   - #### Backend
+//     - [ ] REST API get routes
+//     - [ ] REST API post routes
+//     - [ ] REST API admin delete routes
+//   - #### database
+//     - [x] setup the tables
+//     - [ ] test data 
